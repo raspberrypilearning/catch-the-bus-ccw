@@ -95,5 +95,3 @@ end
 **Test:** Click on the green flag. The hippo will fly and enter the bus.
 
 --- /task ---
-
---- save ---

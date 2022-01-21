@@ -161,5 +161,3 @@ hide
 **Test:** Click on the green flag to test your project, and make sure that the Scratch Cat appears. 
 
 --- /task ---
-
---- save ---

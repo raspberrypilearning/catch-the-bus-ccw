@@ -48,12 +48,12 @@ title: Completed project
 
 You can view the [completed project here](https://scratch.mit.edu/projects/486719199/){:target="_blank"}.
 
---- /collapse ---
+Scratch is the world’s largest free coding community for kids. You’ll be using the Scratch website to complete the other projects on Scratch Island.
 
-You can also 'remix' the project to make any changes you like. You could add sound effects to the bus or other sprites, or set the colour effect of the bus. One of the sprites could miss the bus and not hide.
+You can also 'remix' the project above to make any changes you like. You could add sound effects to the bus or other sprites, or set the colour effect of the bus. One of the sprites could miss the bus and not hide.
+
+--- /collapse ---
 
 Thanks to digital maker Lyla for sending this fantastic upgrade!
 
 ![A project with a bus with flashing colours.](images/Lyla-bus.gif)
-
---- save ---

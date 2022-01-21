@@ -13,15 +13,7 @@ You will choose a backdrop and add a bus sprite.
 
 --- task ---
 
-Open the [Catch the bus starter project](https://scratch.mit.edu/projects/582214330/editor){:target="_blank"}. Scratch will open in another browser tab.
-
-[[[working-offline]]]
-
---- /task ---
-
---- task ---
-
-Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane (in the bottom right-hand corner of the screen):
+The Scratch editor is behind this window. Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane (in the bottom right-hand corner of the screen):
 
 ![](images/choose-a-backdrop.png)
 
@@ -155,5 +147,3 @@ In the Sprite pane, click in the **Size** property and change the Scratch Cat's 
 ![](images/sprite-pane-size.png)
 
 --- /task --- 
-
---- save ---

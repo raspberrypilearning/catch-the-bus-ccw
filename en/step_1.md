@@ -14,7 +14,7 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-Click on the green flag to watch the animation. 
+Click on the green flag in the preview below to watch the animation. 
 
 Which sprites change their costumes to create an animation effect?
 </div>

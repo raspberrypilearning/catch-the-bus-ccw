@@ -100,7 +100,3 @@ Make changes until you get the animation to work the way that you want it to.
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 When working on a project, you often go back and change or improve your code as you get new ideas. 
 </p>
-
---- save ---
-
-
