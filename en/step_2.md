@@ -13,7 +13,7 @@ You will choose a backdrop and add a bus sprite.
 
 --- task ---
 
-The Scratch editor is behind this window. Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane (in the bottom right-hand corner of the screen):
+The Scratch editor is behind these instructions. Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane (in the bottom right-hand corner of the screen):
 
 ![](images/choose-a-backdrop.png)
 
